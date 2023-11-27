@@ -28,5 +28,31 @@
 ### Utilization report
 ![kogge_stone_utilization](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/8b71ad38-9d47-47a8-9694-d38526b0b8ac)
 
+# Multiplier reports
+
+## Karatsuba Multiplier
+### Timing report
+![karatsuba_timing1](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/3044cd81-15a1-4880-a81a-52781bf97e49)
+
+![karatsuba_timing2](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/57da2448-7251-4136-9032-6aeca4c35913)
+
+### Utilization report
+![karatsuba_utilization](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/f57707db-a419-4a12-a922-d8bc602cbff5)
+
+## Dadda Multiplier
+### Timing report
+![dadda_timing1](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/1fd804ff-79b2-46da-89e8-9f6f38f9596d)
+![dadda_timing2](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/03dc900f-f3a9-488b-aac3-02040690ec02)
+
+### Utilization report
+![dadda_utilization](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/3a661999-5b97-4acc-9422-a39b9628b156)
+
+
+
+
+
+
+
+
 
 
