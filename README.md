@@ -47,6 +47,16 @@
 ### Utilization report
 ![dadda_utilization](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/3a661999-5b97-4acc-9422-a39b9628b156)
 
+## Boothradix4 Multiplier
+### Timing report
+![Booth_radix_timing](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/ad39518b-7322-46ac-b2aa-dbd8fcb7ff8e)
+
+![boothradix_timing2](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/3d171fcc-6957-4e82-9f44-8390fa68a939)
+
+
+
+### Utilization report
+![boothradix4_utilization](https://github.com/NiteshVLSI/Adders-and-Multipliers/assets/140998787/9bc95974-20de-4e95-9b7e-dc7d0fba75a6)
 
 
 
